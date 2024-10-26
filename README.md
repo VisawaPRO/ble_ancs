@@ -199,3 +199,6 @@ char *Errcode_to_String(uint16_t status) {
 }
 
 ```
+ได้ผลลัพธ์ดังนี้ 
+# ![image](https://github.com/user-attachments/assets/42f7c254-5f79-4cf9-9474-689fbeac2e4d)
+
